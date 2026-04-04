@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-surface-primary: #0A0A0A;
+  --color-surface-card: #1A1A2E;
+  --color-foreground-primary: #FFFFFF;
+  --color-foreground-secondary: #A1A1AA;
+  --color-foreground-muted: #71717A;
+  --color-border-subtle: #1A1A1A;
+  --color-accent-purple: #A855F7;
+  --color-positive: #22C55E;
+  --color-negative: #EF4444;
+
+  --font-heading: "Geist", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, monospace;
+}
+
+body {
+  margin: 0;
+  background: #000;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
