@@ -226,7 +226,8 @@
                   "fill": "#A1A1AAFF",
                   "content": "+ $285.42 today",
                   "fontFamily": "Inter",
-                  "fontSize": 13
+                  "fontSize": 13,
+                  "fontWeight": "normal"
                 }
               ]
             },
@@ -450,7 +451,7 @@
                       "type": "text",
                       "id": "YkAwP",
                       "name": "sectionAction",
-                      "fill": "#A855F7FF",
+                      "fill": "#FF8C00FF",
                       "content": "See All",
                       "fontFamily": "Inter",
                       "fontSize": 13,
@@ -529,7 +530,8 @@
                               "fill": "#71717AFF",
                               "content": "BTC",
                               "fontFamily": "Geist Mono",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -628,7 +630,8 @@
                               "fill": "#71717AFF",
                               "content": "ETH",
                               "fontFamily": "Geist Mono",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -745,7 +748,8 @@
                               "fill": "#71717AFF",
                               "content": "SOL",
                               "fontFamily": "Geist Mono",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -844,7 +848,8 @@
                               "fill": "#71717AFF",
                               "content": "USDT",
                               "fontFamily": "Geist Mono",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
@@ -943,7 +948,8 @@
                               "fill": "#71717AFF",
                               "content": "DOGE",
                               "fontFamily": "Geist Mono",
-                              "fontSize": 12
+                              "fontSize": 12,
+                              "fontWeight": "normal"
                             }
                           ]
                         },
